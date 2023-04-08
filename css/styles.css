@@ -80,6 +80,11 @@
 
 .socialMedia img {
     width: 50px;
+    transition: filter 0.2s ease-in-out;
+}
+
+.socialMedia img:hover {
+    filter: drop-shadow(5px 5px 5px #a2a2a2);
 }
 
 @media screen and (max-width: 500px) {
