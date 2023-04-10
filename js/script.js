@@ -1,3 +1,5 @@
+console.log("¡Descubriste nuestro secreto! Como premio, al reservar tu vuelo, con el código de descuento -S3CR3T0-. Obtené un 10% de descuento en tu vuelo!");
+
 // Seteo de fecha de countdown.
 const countDownDate = new Date("May 20, 2023 00:01:00").getTime();
 
